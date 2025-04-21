@@ -1,5 +1,5 @@
 {
-    "name": "Servo 270",
+    "name": "pxt Servo 270",
     "description": "",
     "dependencies": {
         "core": "*",
